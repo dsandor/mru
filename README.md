@@ -2,8 +2,9 @@
 [![dependencies Status](https://david-dm.org/dsandor/mru/status.svg)](https://david-dm.org/dsandor/mru)
 [![npm version](https://badge.fury.io/js/mru.svg)](https://badge.fury.io/js/mru)
 [![Known Vulnerabilities](https://snyk.io/test/npm/fauxmojs/badge.svg)](https://snyk.io/test/npm/fauxmojs)
+
 # mru
-Most recently used fixes size overflowing array.
+Most recently used fixed size overflowing array.  The last n elements pushed to array last, old ones drop out of the array.
 
 ## install
 
