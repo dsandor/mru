@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/dsandor/fauxmojs.svg?branch=master)](https://travis-ci.org/dsandor/mru)
-[![Depencencies](https://david-dm.org/dsandor/fauxmojs.svg)](https://david-dm.org/dsandor/mru)
+[![dependencies Status](https://david-dm.org/dsandor/mru/status.svg)](https://david-dm.org/dsandor/mru)
 [![npm version](https://badge.fury.io/js/fauxmojs.svg)](https://badge.fury.io/js/mru)
 
 # mru
