@@ -1,0 +1,28 @@
+{
+  "name": "mru",
+  "version": "1.0.0",
+  "description": "Most recently used fixed size overflowing array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsandor/mru.git"
+  },
+  "keywords": [
+    "mru",
+    "limit",
+    "array"
+  ],
+  "author": "David Sandor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsandor/mru/issues"
+  },
+  "homepage": "https://github.com/dsandor/mru#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
