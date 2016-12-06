@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/dsandor/fauxmojs.svg?branch=master)](https://travis-ci.org/dsandor/mru)
 [![dependencies Status](https://david-dm.org/dsandor/mru/status.svg)](https://david-dm.org/dsandor/mru)
-[![npm version](https://badge.fury.io/js/fauxmojs.svg)](https://badge.fury.io/js/mru)
-
+[![npm version](https://badge.fury.io/js/mru.svg)](https://badge.fury.io/js/mru)
+[![Known Vulnerabilities](https://snyk.io/test/npm/fauxmojs/badge.svg)](https://snyk.io/test/npm/fauxmojs)
 # mru
 Most recently used fixes size overflowing array.
 
